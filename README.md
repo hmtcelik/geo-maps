@@ -1,8 +1,8 @@
-# human-development-index-full
+# Geo Maps about anything
 
-human development index analysis
+Data analysis and data visualization with pandas/geopandas, matplotlib ...
 
 
->will use different features like: 
->
->HDI, Life Expectancy, Expected Years of Schooling, Mean Years of Schooling, Gross National Income Per Capita, Gender Development Index, GDP and GDP per capita, Coefficient of human inequality ...
+## Go to
+1. [2021 Human Development Index (HDI) in Euorpe](https://github.com/hmtcelik/geo-maps/blob/main/hdi_2021.ipynb)
+2. [2019 Hapiness Score in Europe](https://github.com/hmtcelik/geo-maps/blob/main/happines_2019.ipynb)
